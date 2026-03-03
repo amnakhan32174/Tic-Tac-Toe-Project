@@ -42,10 +42,6 @@ This project implements a 3×3 Tic Tac Toe game entirely in hardware using **fin
 - Modular Verilog coding practices  
 - VGA signal timing and graphics rendering  
 - Real-time input handling and game logic in hardware  
-
-## 📷 Demo
-*(Optional: Add images or a short demo video here)*
-
 ---
 
 ## 📄 License
